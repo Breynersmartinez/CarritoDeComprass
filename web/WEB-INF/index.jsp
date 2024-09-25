@@ -23,7 +23,7 @@
     <body>
 
         <!--ensayo-->
-        <h1> ensayo de merge</h1>
+        <h1> ensayo de merge en jsp index</h1>
 
         
         
